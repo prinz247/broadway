@@ -15,7 +15,7 @@ h1{
   font-size: 18px;
 }
 .header{
-  background-image:url("building.png");
+  background-image:url("../images/building.png");
 }
 h2{
   font-size: 32px;
@@ -27,15 +27,16 @@ p{
   font-size: 14px;
 }
 .place{
-  background-image: url("building.png");
+  background-image: url("../images/building.png");
 }
 footer{
   background-color: dimgray;
-
+  text-align: left;
 }
 footer p{
   font-size: 11px;
 }
-footer a{
+footer p a{
   color: white;
+  font-size: 18px;
 }
