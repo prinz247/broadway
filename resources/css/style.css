@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  font-family: helvetica;
+}
+h1, h2, h3{
+  font-weight: bold;
+}
+h1, .navigate p a, .place, footer{
+  color: white;
+}
+h1{
+  font-size: 70px;
+}
+.navigate p a{
+  font-size: 18px;
+}
+.header{
+  background-image:url("building.png");
+}
+h2{
+  font-size: 32px;
+}
+h3{
+  font-size: 23px;
+}
+p{
+  font-size: 14px;
+}
+.place{
+  background-image: url("building.png");
+}
+footer{
+  background-color: dimgray;
+
+}
+footer p{
+  font-size: 11px;
+}
+footer a{
+  color: white;
+}
